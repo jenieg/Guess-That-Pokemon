@@ -1,4 +1,4 @@
-# Guess that Pokemon
+# Guess that Pokémon
 
 Welcome to an game built on the foundation of the PokeAPI's RESTful API. This project aims to provide a simple yet entertaining experience centered around the original cast of Pokémon.
 
