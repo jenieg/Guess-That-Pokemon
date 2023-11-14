@@ -20,8 +20,8 @@ Welcome to an game built on the foundation of the PokeAPI's RESTful API. This pr
 ![](/img/pokemon.png)
 
 ### Links
-- [GitHub Repository]()
-- [Live Site]()
+- [GitHub Repository](https://github.com/jenieg/guess-that-pokemon)
+- [Live Site](https://jenieg.github.io/guess-that-pokemon/)
 
 # My Process
 
