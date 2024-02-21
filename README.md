@@ -1,21 +1,6 @@
 # Guess that Pokémon
 
-Welcome to an game built on the foundation of the PokeAPI's RESTful API. This project aims to provide a simple yet entertaining experience centered around the original cast of Pokémon.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
-
-## Overview
-
-### Screenshot
+Welcome to a game built on the foundation of the PokeAPI's RESTful API. This project aims to provide a simple yet entertaining experience centered around the original cast of Pokémon.
 
 ![](/img/pokemon.png)
 
