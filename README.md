@@ -6,7 +6,7 @@ Welcome to a game built on the foundation of the PokeAPI's RESTful API. This pro
 
 ### Links
 - [GitHub Repository](https://github.com/jenieg/guess-that-pokemon)
-- [Live Site](https://jenieg.github.io/guess-that-pokemon/)
+- [Live Site](https://jenieg.github.io/Guess-That-Pokemon/)
 
 # My Process
 
